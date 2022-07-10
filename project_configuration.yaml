@@ -1,0 +1,15 @@
+bajaj:
+  api_key: "101c3dc7495cc4b3"
+  api_secret: "8d5b726c8bdb7fa1f3a94c3f578ff1"
+  company_id: "fb372367-02a8-4645-bdb7-58082a5f94b2"
+  content_type: "application/json"
+  end_point_url: "https://bajaj-api.sibros.tech/core/v2"
+  package_group: ["Chetak Packages", "Sibros-Validiation-packages"]
+  component_parameters:
+    "TEL":  "GL404409"
+    "VCU":  "GL404404"
+    "MCU":  "GL404407"
+    "SCU":  "GL404414"
+    "CCU":  "GL404410"
+    "BMS":  "GL404401"
+    "ICL":  "GL404411"
